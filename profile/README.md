@@ -3,7 +3,7 @@
 XLSTAT is an Excel statistics add-in for Windows that installs into Microsoft Excel and adds hundreds of statistical tests and analysis tools to the Excel ribbon.
 
 <div align="center">
-  <img src="https://fimex.co.za/wp-content/uploads/2025/09/Fimex-XLSTAT-Logo.webp" alt="XLSTAT Logo" width="25%"/>
+  <img src="https://store-images.s-microsoft.com/image/apps.49744.000d2e73-975d-42e3-8f0f-ca360dc2cc60.8a9d0e1f-183b-4ab0-b765-b64f7b230131.6ebabbd6-be54-4fd5-8e89-3e07680d70ba.png" alt="XLSTAT Logo" width="25%"/>
 </div>
 
 <div align="center">
